@@ -134,14 +134,8 @@
     "name": "Haloperidol",
     "type": "First generation anti-psychotics",
     "route": "IM, PO",
-    "dose": {
-      "IM": "5 mg - 10 mg",
-      "PO": "5 mg - 30 mg / day"
-    },
-    "half-life": {
-      "IM": "20 hours",
-      "PO": "14 - 36 hours"
-    },
+    "dose": "",
+    "half-life": "",
     "pharmacodynamics": "Potent D2 receptor binding",
     "side effects": "Acute dystonia, Pseudoparkinsonism, Tardive Dyskinesia",
     "url": "https://g6.psychcentral.com/drugs/wp-content/uploads/2016/03/haloperidol.jpg"
@@ -151,50 +145,10 @@
     "name": "Haloperidol",
     "type": "First generation anti-psychotics",
     "route": "IM, PO",
-    "dose": {
-      "IM": "5 mg - 10 mg",
-      "PO": "5 mg - 30 mg / day"
-    },
-    "half-life": {
-      "IM": "20 hours",
-      "PO": "14 - 36 hours"
-    },
+    "dose": "",
+    "half-life": "",
     "pharmacodynamics": "Potent D2 receptor binding",
     "side effects": "Acute dystonia, Pseudoparkinsonism, Tardive Dyskinesia",
     "url": "https://g6.psychcentral.com/drugs/wp-content/uploads/2016/03/haloperidol.jpg"
   },
-  {
-    "id": 14,
-    "name": "Haloperidol",
-    "type": "First generation anti-psychotics",
-    "route": "IM, PO",
-    "dose": {
-      "IM": "5 mg - 10 mg",
-      "PO": "5 mg - 30 mg / day"
-    },
-    "half-life": {
-      "IM": "20 hours",
-      "PO": "14 - 36 hours"
-    },
-    "pharmacodynamics": "Potent D2 receptor binding",
-    "side effects": "Acute dystonia, Pseudoparkinsonism, Tardive Dyskinesia",
-    "url": "https://g6.psychcentral.com/drugs/wp-content/uploads/2016/03/haloperidol.jpg"
-  },
-  {
-    "id": 15,
-    "name": "Haloperidol",
-    "type": "First generation anti-psychotics",
-    "route": "IM, PO",
-    "dose": {
-      "IM": "5 mg - 10 mg",
-      "PO": "5 mg - 30 mg / day"
-    },
-    "half-life": {
-      "IM": "20 hours",
-      "PO": "14 - 36 hours"
-    },
-    "pharmacodynamics": "Potent D2 receptor binding",
-    "side effects": "Acute dystonia, Pseudoparkinsonism, Tardive Dyskinesia",
-    "url": "https://g6.psychcentral.com/drugs/wp-content/uploads/2016/03/haloperidol.jpg"
-  }
 ]
